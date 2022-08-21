@@ -14,14 +14,14 @@ HenDen, the following dependencies should be first installed.
 The following command line are executed to obtain our source code.
 
 ```bash
-git clone https://github.com/flying-chicks/operation-risk-detection
+git clone git@github.com:flying-chicks/operation-risk-detection.git
 ```
 
 ## Usage
 The file *sim_train.py* is used to execute training on the synthetic data.
 The file *syn_data.py* is used to generate synthetic data.
-The example data and labels are saved in *data/data_and_labels.pkl*, which
-can be loaded through the following code.
+The example data and labels *data/data_and_labels.pkl* are saved on <a href='https://pan.baidu.com/s/17m5EBf4AoA9VI3Yl22qG6g'><img height="15" src="./images/baidu_icon.jpeg"/></a> 
+and can be loaded through the following code.
 
 ```python
 import pickle as pkl
