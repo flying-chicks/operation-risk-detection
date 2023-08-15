@@ -18,7 +18,7 @@ git clone git@github.com:flying-chicks/operation-risk-detection.git
 ```
 
 ## Usage
-The example data and labels *data/data_and_labels.pkl* are saved on <a href='链接：https://pan.baidu.com/s/1G8P6IAlVaVINVOQ5iWctyQ?pwd=zov3'><img height="15" src="./images/baidu_icon.jpeg"/></a> 
+The example data and labels *data/data_and_labels.pkl* are saved on <a href='https://pan.baidu.com/s/1G8P6IAlVaVINVOQ5iWctyQ?pwd=zov3'><img height="15" src="./images/baidu_icon.jpeg"/></a> 
 and can be loaded through the following code.
 
 ```python
