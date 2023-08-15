@@ -1,4 +1,4 @@
-# HenDen: An Operational Logic Heterograph-based Unsupervised Framework for Identifying Financial Operational Risks
+# Harnessing Logic Heterograph Learning for Financial Operational Risks: A Perspective of Cluster and Thin-tailed Distributions
 ## Introduction
 HeDen is an operational logic heterograph-based learning framework for recognizing financial operational risks without labeled data. In this framework, we first represent the operational logic of bank employees via using heterographs. Next, we propose the HEN to learn the structural information and meta relations in the operational logic heterographs and encode each entire graph into a low-dimension vector. Finally, the DEN is introduced to identify operational risks based on the probability density distributions. In addition, the HEN and DEN are trained in an end-to-end manner via a joint training strategy to select the vital information for detecting risks.
 ![image](./images/main_framework_10.jpeg)
